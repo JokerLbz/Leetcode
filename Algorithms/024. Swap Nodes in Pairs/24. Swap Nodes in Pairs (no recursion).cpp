@@ -1,6 +1,6 @@
 //Question : 24. Swap Nodes in Pairs
 //URL : https://leetcode.com/problems/swap-nodes-in-pairs/
-//Approach : Straight-forward without recursion (无递归)
+//Approach : Intuition without recursion (无递归)
 //Runtime : 8 ms (100%)
 //Memory Usage : 8.8 MB (76.73%)
 //Time complexity : O(n)
