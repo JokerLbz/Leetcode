@@ -15,7 +15,6 @@ public:
             if(!s.count(num))
                 s.insert(num);
         }
-
         return 2 * accumulate(s.begin(), s.end(), 0) - sum;
     }
 };
